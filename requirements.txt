@@ -1,0 +1,5 @@
+anomalib
+lightning
+einops
+FrEIA
+git+https://github.com/mlfoundations/open_clip.git
